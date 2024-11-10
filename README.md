@@ -1,2 +1,2 @@
-# Docker-containerized-single-page-application
+# Docker-containerized SPA
 using, Docker, Node, Express, Redis and Postgresql
