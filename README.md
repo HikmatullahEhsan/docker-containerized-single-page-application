@@ -1,2 +1,2 @@
-# docker-containerized-single-page-application
+# Docker-containerized-single-page-application
 using, Docker, Node, Express, Redis and Postgresql
