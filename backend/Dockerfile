@@ -5,7 +5,7 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 
 # Use npm ci for faster and more reliable builds
-RUN npm ci --production
+# RUN npm ci --production
 
 COPY . .
 
